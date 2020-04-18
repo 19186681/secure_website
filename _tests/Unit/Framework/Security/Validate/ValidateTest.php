@@ -165,9 +165,9 @@ class ValidateTest extends PHPUnit_Framework_TestCase
         return [
             ['Píėrre', 2, 20],
             ['Amélie', 2, 20],
-            ['Pierre-Henry', 2, 20],
+            ['WebMaster-Henry', 2, 20],
             ['WebMaster', 2, 20],
-            ['Pierre-Théodore Rollier', 10, 25],
+            ['WebMaster-Théodore Rollier', 10, 25],
             ['Àngel Nøisã', 2, 20],
             ['Nôël Großkreutz', 2, 20],
             ['Camarón de la Isla', 2, 20]

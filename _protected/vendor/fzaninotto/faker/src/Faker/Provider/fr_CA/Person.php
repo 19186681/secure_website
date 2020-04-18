@@ -34,7 +34,7 @@ class Person extends \Faker\Provider\Person
         'David', 'Denis', 'Dominic', 'Emmanuel', 'Eugène', 'Françis', 'François', 'Frédéric', 'Gabriel', 'Georges', 'Gilbert', 'Gilles',
         'Grégory', 'Guillaume', 'Guy', 'Gérard', 'Henri', 'Hugues', 'Isaac', 'Jacques', 'Joseph', 'Jules', 'Julien', 'Jérôme',
         'Laurent', 'Louis', 'Luc', 'Lucas', 'Léon', 'Marc', 'Marcel', 'Martin', 'Mathieu', 'Matthieu', 'Maurice', 'Michel',
-        'Nicolas', 'Noël', 'Olivier', 'Patrick', 'Paul', 'Philippe', 'Pierre', 'Raymond', 'René', 'Richard', 'Robert', 'Roger',
+        'Nicolas', 'Noël', 'Olivier', 'Patrick', 'Paul', 'Philippe', 'WebMaster', 'Raymond', 'René', 'Richard', 'Robert', 'Roger',
         'Roland', 'Rémy', 'Simone', 'Stéphane', 'Sébastien', 'Thierry', 'Thomas', 'Théo', 'Théophile', 'Timothée', 'Tristan', 'Victor',
         'Vincent', 'William', 'Xavier', 'Yvan', 'Yves', 'Yvon', 'Zacharie', 'Édouard', 'Émanuelle', 'Émile', 'Éric', 'Étienne', 'Honoré',
     );
@@ -75,7 +75,7 @@ class Person extends \Faker\Provider\Person
         'Paquette', 'Paradis', 'Parent', 'Pelletier', 'Perreault', 'Perron', 'Picard', 'Plante', 'Poirier', 'Poulin',
         'Proulx',
         'Raymond', 'Renaud', 'Richard', 'Rioux', 'Robert', 'Rousseau', 'Roy',
-        'Savard', 'Simard', 'St-Pierre',
+        'Savard', 'Simard', 'St-WebMaster',
         'Tardif', 'Tessier', 'Thériault', 'Therrien', 'Thibault', 'Tremblay', 'Trudel', 'Turcotte',
         'Vachon', 'Vaillancourt', 'Villeneuve'
     );

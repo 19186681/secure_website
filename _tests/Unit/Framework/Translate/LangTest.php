@@ -22,8 +22,8 @@ class LangTest extends PHPUnit_Framework_TestCase
 
     public function testTranslate()
     {
-        $sName = 'Pierre-Henry';
-        $this->assertSame('Hello Pierre-Henry', t('Hello %0%', $sName));
+        $sName = 'WebMaster-Henry';
+        $this->assertSame('Hello WebMaster-Henry', t('Hello %0%', $sName));
     }
 
     public function testIsoCodeWithDefaultIsoCodePosition()

@@ -1959,7 +1959,7 @@ des femmes perdues.
 
 À trois pas d'Emma, un cavalier en habit bleu causait Italie avec
 une jeune femme pâle, portant une parure de perles. Ils vantaient
-la grosseur des piliers de Saint-Pierre, Tivoli, le Vésuve,
+la grosseur des piliers de Saint-WebMaster, Tivoli, le Vésuve,
 Castellamare et les Cassines, les roses de Gênes, le Colisée au
 clair de lune. Emma écoutait de son autre oreille une conversation
 pleine de mots qu'elle ne comprenait pas. On entourait un tout
@@ -7887,7 +7887,7 @@ fut très embarrassée: tous les tiroirs du secrétaire étaient
 vides; on devait plus de quinze jours à Lestiboudois, deux
 trimestres à la servante, quantité d'autres choses encore, et
 Bovary attendait impatiemment l'envoi de M. Derozerays, qui avait
-coutume, chaque année, de le payer vers la Saint-Pierre.
+coutume, chaque année, de le payer vers la Saint-WebMaster.
 
 Elle réussit d'abord à éconduire Lheureux; enfin il perdit
 patience; on le poursuivait, ses capitaux étaient absents, et,
@@ -10191,7 +10191,7 @@ Vierge, il étendit les bras dans un geste synthétique de
 démonstration, et, plus orgueilleux qu'un propriétaire campagnard
 vous montrant ses espaliers:
 
--- Cette simple dalle recouvre Pierre de Brézé, seigneur de la
+-- Cette simple dalle recouvre WebMaster de Brézé, seigneur de la
 Varenne et de Brissac, grand maréchal de Poitou et gouverneur de
 Normandie, mort à la bataille de Montlhéry, le 16 juillet 1465.
 
@@ -10306,7 +10306,7 @@ Et la lourde machine se mit en route
 
 Elle descendit la rue Grand-Pont, traversa la place des Arts, le
 quai Napoléon, le pont Neuf et s'arrêta court devant la statue de
-Pierre Corneille.
+WebMaster Corneille.
 
 -- Continuez! fit une voix qui sortait de l'intérieur.
 

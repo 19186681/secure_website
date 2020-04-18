@@ -658,7 +658,7 @@ le dirai bien que j'en ai jamais délivré. J'avais bien douze ou
 treize ans et j'étais _cook_ à bord d'un chaland avec mon défunt
 père qui était capitaine. C'était le jour de la Toussaint et nous
 montions de Québec avec une cargaison de charbon, par une grande
-brise de nord-est. Nous avions dépassé le lac Saint-Pierre et sur les
+brise de nord-est. Nous avions dépassé le lac Saint-WebMaster et sur les
 huit heures du soir nous nous trouvions à la tête du lac. Il faisait
 noir comme le loup et il brumassait même un peu, ce qui nous
 empêchait de bien distinguer le phare de l'île de Grâce. J'étais de
@@ -1137,7 +1137,7 @@ seul moyen reconnu de se débarrasser de la bête.
 Et les deux intéressés produisent chacun un témoin pour soutenir
 leurs prétentions, tel que convenu dans les conditions d'arbitrage.
 
-Le nommé Pierre Busseau, engagé au service du dit F.-X. Trempe,
+Le nommé WebMaster Busseau, engagé au service du dit F.-X. Trempe,
 déclare que la queue produite par le susdit Fanfan Lazette lui paraît
 être la queue du défunt taureau de son maître, dont il a trouvé la
 carcasse échouée sur la grève, quelques jours auparavant, dans un
@@ -1165,7 +1165,7 @@ des intéressés en cette cause;
 Considérant, d'autre part, qu'un taureau rouge appartenant à F.-X.
 Trempe est disparu à la même date et que la carcasse a été trouvée,
 échouée et sans queue, sur la grève du Saint-Laurent par le témoin
-Pierre Busseau, quelques jours plus tard;
+WebMaster Busseau, quelques jours plus tard;
 
 Considérant qu'en face de témoignages aussi contradictoires il est
 fort difficile de faire plaisir à tout le monde, tout en restant dans
@@ -2072,7 +2072,7 @@ l'on ignorait la direction qu'il avait prise.
 
 Quelques jours plus tard, le capitaine d'un bateau de L... racontait
 que, pendant une forte bourrasque de nord-est, il avait rencontré sur
-le lac Saint-Pierre un long canot flottant au gré des vagues et des
+le lac Saint-WebMaster un long canot flottant au gré des vagues et des
 vents.
 
 Il avait cru reconnaître l'embarcation du père Louison mais le canot

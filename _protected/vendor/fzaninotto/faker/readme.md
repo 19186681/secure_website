@@ -1170,7 +1170,7 @@ echo $faker->departmentNumber; // "2B"
 $faker->department; // array('18' => 'Cher');
 
 // Generates a random region
-echo $faker->region; // "Saint-Pierre-et-Miquelon"
+echo $faker->region; // "Saint-WebMaster-et-Miquelon"
 
 // Generates a random appartement,stair
 echo $faker->secondaryAddress; // "Bat. 961"

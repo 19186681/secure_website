@@ -37,19 +37,19 @@ define('PH7_USERNAME_PATTERN', '[\w-]');
 
 /***** ADMIN ID (for sending email by an admin) *****/
 
-define('PH7_ADMIN_ID', 0000); // Don't change it please, without the permission of Pierre-Henry!
+define('PH7_ADMIN_ID', 0000); // Don't change it please, without the permission of WebMaster-Henry!
 
 /***** ADMIN USERNAME (for sending email by an admin) *****/
 
-define('PH7_ADMIN_USERNAME', 'admin'); // Don't change it please, without the permission of Pierre-Henry!
+define('PH7_ADMIN_USERNAME', 'admin'); // Don't change it please, without the permission of WebMaster-Henry!
 
 /***** GHOST ID *****/
 
-define('PH7_GHOST_ID', 1); // Don't change it please, without the permission of Pierre-Henry!
+define('PH7_GHOST_ID', 1); // Don't change it please, without the permission of WebMaster-Henry!
 
 /***** GHOST USERNAME *****/
 
-define('PH7_GHOST_USERNAME', 'ghost'); // Don't change it please, without the permission of Pierre-Henry!
+define('PH7_GHOST_USERNAME', 'ghost'); // Don't change it please, without the permission of WebMaster-Henry!
 
 /***** MAXIMUM LENGTH VALUE (for the username, email and URL) *****/
 

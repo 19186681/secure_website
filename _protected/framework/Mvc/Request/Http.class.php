@@ -33,7 +33,7 @@ use PH7\Framework\Security as Secty;
  * if ($oHttpRequest->getExists('pH'))
  *     echo $oHttpRequest->get('pH');
  * else
- *     echo 'I love Pierre-Henry S ;)';
+ *     echo 'I love WebMaster-Henry S ;)';
  * </code>
  *
  */

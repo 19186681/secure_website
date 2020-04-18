@@ -15,7 +15,7 @@ class CArrayTest extends PHPUnit_Framework_TestCase
 {
     public function testMerge()
     {
-        $aArrayOne = ['abc', 'haha', 'Pierre'];
+        $aArrayOne = ['abc', 'haha', 'WebMaster'];
         $aArrayTwo = ['Julie', 'Amelie', 'Pied', 'manger'];
 
         $aResults = CArray::merge($aArrayOne, $aArrayTwo);
@@ -24,7 +24,7 @@ class CArrayTest extends PHPUnit_Framework_TestCase
             [
                 0 => 'abc',
                 1 => 'haha',
-                2 => 'Pierre',
+                2 => 'WebMaster',
                 3 => 'Julie',
                 4 => 'Amelie',
                 5 => 'Pied',
@@ -36,9 +36,9 @@ class CArrayTest extends PHPUnit_Framework_TestCase
 
     public function testKeyByValueExists()
     {
-        $aData = ['James', 'henry' => 'Henry', 'pierre' => 'Pierre'];
+        $aData = ['James', 'henry' => 'Henry', 'pierre' => 'WebMaster'];
 
-        $sResult = CArray::getKeyByValue('Pierre', $aData);
+        $sResult = CArray::getKeyByValue('WebMaster', $aData);
 
         $this->assertSame('pierre', $sResult);
     }
@@ -47,14 +47,14 @@ class CArrayTest extends PHPUnit_Framework_TestCase
     {
         $aData = ['James', 'henry' => 'Henry'];
 
-        $sResult = CArray::getKeyByValue('Pierre', $aData);
+        $sResult = CArray::getKeyByValue('WebMaster', $aData);
 
         $this->assertNull($sResult);
     }
 
     public function testKeyByValueIgnoreCaseExists()
     {
-        $aData = ['pierre' => 'Pierre', 'henry' => 'Henry'];
+        $aData = ['pierre' => 'WebMaster', 'henry' => 'Henry'];
 
         $sResult = CArray::getKeyByValueIgnoreCase('PIErrE', $aData);
 

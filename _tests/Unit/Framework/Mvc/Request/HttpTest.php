@@ -185,10 +185,10 @@ class HttpTest extends PHPUnit_Framework_TestCase
 
     public function testSets()
     {
-        $this->oHttpRequest->sets('setname', 'Pierre');
+        $this->oHttpRequest->sets('setname', 'WebMaster');
 
-        $this->assertSame('Pierre', $this->oHttpRequest->get('setname'));
-        $this->assertSame('Pierre', $this->oHttpRequest->post('setname'));
+        $this->assertSame('WebMaster', $this->oHttpRequest->get('setname'));
+        $this->assertSame('WebMaster', $this->oHttpRequest->post('setname'));
     }
 }
 

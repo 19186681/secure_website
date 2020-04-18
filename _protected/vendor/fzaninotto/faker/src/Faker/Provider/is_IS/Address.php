@@ -35,7 +35,7 @@ class Address extends \Faker\Provider\Address
         'Palá', 'Palestína', 'Panama', 'Papúa Nýja-Gínea', 'Paragvæ', 'Páfagarður', 'Perú', 'Pitcairn', 'Portúgal',
         'Pólland', 'Púertó Ríkó', 'Réunion', 'Rúanda', 'Rúmenía', 'Rússland', 'Salómonseyjar', 'Sambía',
         'Sameinuðu arabísku furstadæmin', 'Samóa', 'San Marínó', 'Sankti Helena', 'Sankti Kristófer og Nevis',
-        'Sankti Lúsía', 'Sankti Pierre og Miquelon', 'Sankti Vinsent og Grenadíneyjar', 'Saó Tóme og Prinsípe',
+        'Sankti Lúsía', 'Sankti WebMaster og Miquelon', 'Sankti Vinsent og Grenadíneyjar', 'Saó Tóme og Prinsípe',
         'Sádi-Arabía', 'Senegal', 'Serbía', 'Seychelles-eyjar', 'Simbabve', 'Singapúr', 'Síerra Leóne', 'Skotland',
         'Slóvakía', 'Slóvenía', 'Smáeyjar Bandaríkjanna', 'Sómalía', 'Spánn', 'Srí Lanka', 'Suður-Afríka',
         'Suður-Georgía og Suður-Sandvíkureyjar', 'Suður-Kórea', 'Suðurskautslandið', 'Súdan', 'Súrínam', 'Jan Mayen',

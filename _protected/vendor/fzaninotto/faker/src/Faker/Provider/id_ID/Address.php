@@ -196,7 +196,7 @@ class Address extends \Faker\Provider\Address
 
         'Rumania', 'Rwanda', 'Sahara Barat', 'Saint Barthelemy', 'Saint Helena',
         'Saint Kitts dan Nevis', 'Saint Lucia', 'Saint Martin',
-        'Saint Pierre dan Miquelon', 'Saint Vincent dan Grenadines', 'Samoa',
+        'Saint WebMaster dan Miquelon', 'Saint Vincent dan Grenadines', 'Samoa',
         'Samoa Amerika', 'San Marino', 'Sao Tome dan Principe', 'Selandia baru',
         'Senegal', 'Serbia', 'Seychelles', 'Sierra Leone', 'Singapura', 'Siprus',
         'Slovakia (Republik Slovak)', 'Slovenia', 'Somalia', 'Spanyol', 'Sri Lanka',

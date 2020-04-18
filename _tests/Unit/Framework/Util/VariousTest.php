@@ -15,7 +15,7 @@ class VariousTest extends PHPUnit_Framework_TestCase
 {
     public function testGenerateRandom()
     {
-        $iStringLength = strlen(Various::genRnd('Pierre-Henry Random :D', 8));
+        $iStringLength = strlen(Various::genRnd('WebMaster-Henry Random :D', 8));
         $this->assertSame(8, $iStringLength);
     }
 

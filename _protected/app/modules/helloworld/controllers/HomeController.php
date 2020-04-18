@@ -15,7 +15,7 @@ use PH7\Framework\Translate\Lang;
 class HomeController extends Controller
 {
     /**
-     * Example URL: http://your-domain.com/m/helloworld/home/index/Pierre-Henry/Soria
+     * Example URL: http://your-domain.com/m/helloworld/home/index/WebMaster-Henry/Soria
      *
      * @param string $sFirstName
      * @param string $sLastName

@@ -99,7 +99,7 @@ class Captcha
         if (!empty($iRandom)) {
             $this->sStr = Various::genRnd($iRandom, $iComplexity);
         } else {
-            $this->sStr = Various::genRnd('pH7_Pierre-Henry_Soria_Sanz_González_captcha', $iComplexity);
+            $this->sStr = Various::genRnd('pH7_WebMaster-Henry_Soria_Sanz_González_captcha', $iComplexity);
         }
 
         $this->oSession->set(self::SESSION_NAME, $this->sStr);
