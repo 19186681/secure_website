@@ -3,7 +3,7 @@
  * Description:     This Chat Messenger allows users to instantly communicate via messages and smileys.
  *                  It also has a warning system to alert the arrival of new messages.
  *
- * Author:          WebMaster <ph7software@gmail.com>
+ * Author:          WebMaster <x19186681@student.ncirl.ie>
  * Copyright:       (c) 2012-2019, WebMaster. All Rights Reserved.
  * License:         GNU General Public License; See PH7.LICENSE.txt and PH7.COPYRIGHT.txt in the root directory.
  * Version:         1.4

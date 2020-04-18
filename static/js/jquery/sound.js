@@ -2,7 +2,7 @@
  * Title:           Play Sound
  * Description:     HTML5 Audio with <embed> fallback (this embed tag is in any case necessary for IE7 and 8). | jQuery plugin
  *
- * Author:          WebMaster <ph7software@gmail.com>
+ * Author:          WebMaster <x19186681@student.ncirl.ie>
  * Copyright:       (c) 2013-2019, WebMaster. All Rights Reserved.
  * License:         MIT License (http://opensource.org/licenses/mit-license.php)
  * Link:            http://github.com/pH-7/Slim-HTML5-Audio-jQuery-Plugin

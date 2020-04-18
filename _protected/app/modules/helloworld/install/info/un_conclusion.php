@@ -1,6 +1,6 @@
 <?php
 /**
- * @author         WebMaster <ph7software@gmail.com>
+ * @author         WebMaster <x19186681@student.ncirl.ie>
  * @copyright      (c) 2012-2019, WebMaster. All Rights Reserved.
  * @license        GNU General Public License <http://www.gnu.org/licenses/gpl.html>
  * @package        PH7 / App / Module / Hello World / Install / Info

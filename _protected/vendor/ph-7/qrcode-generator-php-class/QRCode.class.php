@@ -3,7 +3,7 @@
  * @title            QR Code
  * @desc             Compatible to vCard 4.0 or higher.
  *
- * @author           WebMaster <ph7software@gmail.com>
+ * @author           WebMaster <x19186681@student.ncirl.ie>
  * @copyright        (c) 2012-2018, WebMaster. All Rights Reserved.
  * @license          GNU General Public License <http://www.gnu.org/licenses/gpl.html>
  * @version          1.2
