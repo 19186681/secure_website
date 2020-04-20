@@ -70,14 +70,14 @@ class LoginFormProcess extends Form implements LoginableForm
                     $sEmail,
                     'Guest',
                     'No Password',
-                    'Failed! Incorrect Username'
+                    'Login Failed!'
                 );
             } elseif ($sLogin === CredentialStatusCore::INCORRECT_PASSWORD_IN_DB) {
                 $oSecurityModel->addLoginLog(
                     $sEmail,
                     'Guest',
                     '*****',
-                    'Failed! Incorrect Password'
+                    'Login Failed!'
                 );
 
                 if ($bIsLoginAttempt) {
@@ -85,7 +85,7 @@ class LoginFormProcess extends Form implements LoginableForm
                 }
 
                 $this->enableCaptcha();
-                $sWrongPwdTxt = t('Oops! This password you entered is incorrect.') . '<br />';
+                $sWrongPwdTxt = t('Oops! Login Failed.') . '<br />';
                 $sWrongPwdTxt .= t('Please try again (make sure your caps lock is off).') . '<br />';
                 $sWrongPwdTxt .= t('Forgot your password? <a href="%0%">Request a new one</a>.', Uri::get('lost-password', 'main', 'forgot', 'user'));
                 \PFBC\Form::setError('form_login_user', $sWrongPwdTxt);

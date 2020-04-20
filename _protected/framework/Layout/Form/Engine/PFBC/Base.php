@@ -1,7 +1,7 @@
 <?php
 /**
  * Many changes have been made in this file.
- * By WebMaster <https://ph7.me>
+ * By WebMaster 
  */
 
 namespace PFBC;

@@ -35,7 +35,7 @@ class CleanupTest extends PHPUnit_Framework_TestCase
     {
         return [
             ['pierre.soria', 'pierre-soria', 40],
-            ['WebMaster', 'pierre-henry-soria', 40],
+            ['WebMaster', 'WebMaster-soria', 40],
             ['Marie-Amelie.Rollier', 'Marie-Amelie-R', 14],
             ['marie..heloise Beghin', 'marie--helois', 13],
             ['.', '', 0]

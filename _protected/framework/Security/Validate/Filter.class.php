@@ -389,11 +389,11 @@ class Filter
             $original = $str;
 
             if (preg_match("/<a/i", $str)) {
-                $str = preg_replace_callback("#<a\s+([^>]*?)(>|$)#si", array($this, '_js_link_removal'), $str);
+                $str = preg_replace_callback("#<a\s+([^>]*?)(>|$)#si", array($this, '_js_link_remedy'), $str);
             }
 
             if (preg_match("/<img/i", $str)) {
-                $str = preg_replace_callback("#<img\s+([^>]*?)(\s?/?>|$)#si", array($this, '_js_img_removal'), $str);
+                $str = preg_replace_callback("#<img\s+([^>]*?)(\s?/?>|$)#si", array($this, '_js_img_remedy'), $str);
             }
 
             if (preg_match("/script/i", $str) OR preg_match("/xss/i", $str)) {
@@ -676,7 +676,7 @@ class Filter
      *
      * @return    string
      */
-    protected function _js_link_removal($match)
+    protected function _js_link_remedy($match)
     {
         $attributes = $this->_filter_attributes(str_replace(array('<', '>'), '', $match[1]));
 
@@ -697,7 +697,7 @@ class Filter
      *
      * @return    string
      */
-    protected function _js_img_removal($match)
+    protected function _js_img_remedy($match)
     {
         $attributes = $this->_filter_attributes(str_replace(array('<', '>'), '', $match[1]));
 

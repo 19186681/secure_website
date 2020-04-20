@@ -92,7 +92,7 @@ class Page
     /**
      * Clean a Dynamic URL for some features CMS.
      *
-     * @param string $sVar The Query URL (e.g. www.pierre-henry-soria.com/my-mod/?query=value).
+     * @param string $sVar The Query URL (e.g. secdating.atwebpages.com/my-mod/?query=value).
      *
      * @return string $sPageUrl The new clean URL.
      */

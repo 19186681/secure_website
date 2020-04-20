@@ -1,4 +1,4 @@
 {{ $browser->noCache() }}
 {% $registry->module %}
-{% $str->upperFirst('pierre-Henry') %}
+{% $str->upperFirst('WebMaster') %}
 {% $config->values['language']['lang'] %}

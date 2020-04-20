@@ -1,6 +1,6 @@
 <?php
 /**
- *  This file has been modified by pH7 developers team (WebMaster).
+ *  This file has been modified by (WebMaster).
  */
 
 namespace PFBC;
