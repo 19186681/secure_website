@@ -1,8 +1,8 @@
 <?php defined('PH7') or exit('Restricted access');
 /*
-Created on 2020-04-19 23:52:17
+Created on 2020-04-22 21:57:27
 File ID: geturipagemainlegalnotice
 */
 $_mData = <<<'EOF'
-s:41:"https://mydomain.local/legal/legal-notice";
+s:43:"https://cyberdating.site/legal/legal-notice";
 EOF;

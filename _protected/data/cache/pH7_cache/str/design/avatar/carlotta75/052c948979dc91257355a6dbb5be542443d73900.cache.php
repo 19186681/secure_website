@@ -1,8 +1,8 @@
 <?php defined('PH7') or exit('Restricted access');
 /*
-Created on 2020-04-19 23:16:14
+Created on 2020-04-22 21:57:26
 File ID: male64
 */
 $_mData = <<<'EOF'
-s:71:"https://localhost/templates/themes/base/img/icon/male_no_picture-64.svg";
+s:78:"https://cyberdating.site/templates/themes/base/img/icon/male_no_picture-64.svg";
 EOF;

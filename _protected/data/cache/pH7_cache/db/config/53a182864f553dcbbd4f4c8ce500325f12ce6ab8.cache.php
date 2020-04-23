@@ -1,18 +1,8 @@
 <?php defined('PH7') or exit('Restricted access');
 /*
-Created on 2020-04-16 22:42:52
+Created on 2020-04-21 10:52:39
 File ID: settingchatApi
 */
-/***************************************************************************
- *     MyCMS Web Engineer: WebMaster
- *               --------------------
- * @since      Mon Oct 14 2011
- * @author     WebMaster
- * @email      hello@secdating.atwebpages.com
- * @link       https://secdating.atwebpages.com
- * @copyright  (c) 2011-2020, WebMaster. All Rights Reserved.
- * @license    GNU General Public License; See PH7.LICENSE.txt and PH7.COPYRIGHT.txt in the root directory.
- ***************************************************************************/
 $_mData = <<<'EOF'
-s:70:"https://secdating.atwebpages.com/addons/chat/?name=%site_name%&url=%site_url%&skin=4";
+s:70:"https://ph7cms.com/addons/chat/?name=%site_name%&url=%site_url%&skin=4";
 EOF;

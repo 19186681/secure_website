@@ -2,7 +2,7 @@
 namespace PH7;
 defined('PH7') or exit('Restricted access');
 /*
-Created on 2020-04-16 22:40:52
+Created on 2020-04-21 10:52:22
 Compiled file from: /usr/share/nginx/html/templates/themes/base/tpl/favicon_alert.inc.tpl
 Template Engine: PH7Tpl version 1.4.0 by WebMaster
 */

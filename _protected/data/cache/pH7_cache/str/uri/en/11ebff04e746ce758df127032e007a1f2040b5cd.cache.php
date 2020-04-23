@@ -1,8 +1,8 @@
 <?php defined('PH7') or exit('Restricted access');
 /*
-Created on 2020-04-19 23:52:17
+Created on 2020-04-22 21:57:25
 File ID: geturiusermainlogin
 */
 $_mData = <<<'EOF'
-s:28:"https://mydomain.local/login";
+s:30:"https://cyberdating.site/login";
 EOF;

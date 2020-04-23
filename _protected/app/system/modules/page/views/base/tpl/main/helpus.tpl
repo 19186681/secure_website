@@ -1,17 +1,14 @@
 <div class="center">
   <p>
-     {lang}<strong><a href="https://secdating.atwebpages.com">MyCMS</a></strong> is built by a small volunteer team of engineers, programmers, designers, and others in many different sites across the globe. It is updated continuously, and<br />
-     in constantly evolving to give the best image of the <strong>next Social Dating Web generation</strong>!<br />
-     If you wish to help us as volunteer developer and if you know one of the following languages (C++, Java, Android, Python, PHP 7+ OOP, HTML5/CSS, JavaScript OOP/Node.js, Ruby on Rails, Swift, SQL, Unix Server, Apache/Nginx)<br />
-     or professional hackers who could help us in the security of our Web software to find any security vulnerability in order to create the most secure Web software ever<br />
-     or help us in the translation, you can directly start by <a href="https://github.com/19186681/secure_website">forking our project on Github</a>.<br />
-     Moreover, this unique experience will <strong>make the difference more than ever on your CV</strong>.{/lang}
+     {lang}<strong><a href="https://secdating.atwebpages.com">MyCMS</a></strong> is built  as part of secure programming for web module and is based on open source social/dating CMS provider. It will be maintained  and updated to give people the best way of the <strong>next Social Dating Web generation</strong>!<br />
+     If you wish to help us as volunteer developer and if you know a professional hackers who could help further to  secure this website then you can email us or directly start by <a href="https://github.com/19186681/secure_website">forking the project on Github</a>.<br />
+I look forward to working with you.{/lang}
   </p>
 
   <p>&nbsp;</p>
 
   <p>
-    &laquo;<em>{lang}A contribution to an open source project such as <a href="https://secdating.atwebpages.com/what-is-the-best-dating-software-provider/">MyCMS, Open Source Social/Dating Provider</a> looks great on your CV!{/lang}</em>&raquo;<br />
+    &laquo;<em>{lang} Website is based on Open Source Social/Dating CMS Provider{/lang}</em>&raquo;<br />
     <br />{lang 'Thank you!'}
   </p>
 </div>

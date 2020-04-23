@@ -1,0 +1,33 @@
+{"Time":"04-22-2020 03:05:10","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/man","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+
+{"Time":"04-22-2020 03:18:30","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/man","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+
+{"Time":"04-22-2020 03:18:45","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/man","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+
+{"Time":"04-22-2020 03:20:57","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/man","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+
+{"Time":"04-22-2020 03:26:56","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/man","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+
+{"Time":"04-22-2020 03:27:15","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/man","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+
+{"Time":"04-22-2020 03:27:24","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/man","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+
+{"Time":"04-22-2020 03:27:46","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/man","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+
+{"Time":"04-22-2020 09:36:47","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/www.cyberdating.site\/","Query":"NO QUERY STRING","Message":"Cannot create \"\/usr\/share\/nginx\/html\/_protected\/data\/cache\/pH7_cache\/str\/uri\/en\/\" directory.<br \/> Please verify that the directory permission is in writing mode.","Level":0,"File":"\/usr\/share\/nginx\/html\/_protected\/framework\/File\/File.class.php","Line":308}
+
+
+{"Time":"04-22-2020 17:13:04","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/tester","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+
+{"Time":"04-22-2020 17:13:48","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko\/20100101 Firefox\/75.0","UrlPag":"https:\/\/cyberdating.site\/note\/author\/tester","Query":"NO QUERY STRING","Message":"SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, n.noteId LIMIT 0, 6' at line 1","Level":"42000","File":"\/usr\/share\/nginx\/html\/_protected\/app\/system\/modules\/note\/models\/NoteModel.php","Line":70}
+
+

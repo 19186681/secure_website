@@ -1,8 +1,8 @@
 <?php defined('PH7') or exit('Restricted access');
 /*
-Created on 2020-04-19 23:52:17
+Created on 2020-04-22 21:57:27
 File ID: geturinewsletterhomesubscription
 */
 $_mData = <<<'EOF'
-s:51:"https://mydomain.local/newsletter/home/subscription";
+s:53:"https://cyberdating.site/newsletter/home/subscription";
 EOF;

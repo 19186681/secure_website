@@ -1,8 +1,8 @@
 <?php defined('PH7') or exit('Restricted access');
 /*
-Created on 2020-04-19 23:52:16
+Created on 2020-04-22 21:57:25
 File ID: geturixmlrssxmlrouterblog
 */
 $_mData = <<<'EOF'
-s:31:"https://mydomain.local/rss/blog";
+s:33:"https://cyberdating.site/rss/blog";
 EOF;
